@@ -6,10 +6,6 @@ tag:
   - reference
 ---
 
-import Callout from "@/components/Callout.astro";
-
----
-
 ## Headings
 
 To create headings, use hash symbols (#) followed by a space. The number of hash symbols indicates the heading level.
