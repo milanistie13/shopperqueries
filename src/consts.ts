@@ -2,7 +2,7 @@ import type { Metadata, Site, Socials } from "@types";
 
 export const SITE: Site = {
   TITLE: "Shopperqueries",
-  DESCRIPTION: "Elevate Your Shopping Experience with Shopperqueries. Explore a new realm of shopping satisfaction with Shopper Queries, your trusted guide to elevated shopping experiences.",
+  DESCRIPTION: "Explore a new realm of shopping satisfaction with Shopper Queries, your trusted guide to elevated shopping experiences.",
   EMAIL: "solucionermedia@gmail.com",
   NUM_POSTS_ON_HOMEPAGE: 400,
   NUM_PROJECTS_ON_HOMEPAGE: 3,
