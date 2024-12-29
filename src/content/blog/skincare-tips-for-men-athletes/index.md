@@ -3,7 +3,7 @@ title: "Sweat-Proof Skincare: A Complete Guide for Active Male Athletes"
 description: "Discover the ultimate sweat-proof skincare guide for male athletes. Learn essential routines, product recommendations, and expert tips for maintaining healthy skin during intense workouts"
 date: "2024-12-29"
 tag:
-  - skin care for men
+  - skincare for men
 ---
 
 Listen up, fellow athletes – I've got some real talk about something we often overlook: our skin. Between intense training sessions, outdoor runs, and gym workouts, our skin takes quite a beating. And let's be honest, most of us have been guilty of just splashing some water on our face post-workout and calling it a day. But here's the thing: proper skincare isn't just about looking good – it's about maintaining healthy, resilient skin that can keep up with your active lifestyle.
