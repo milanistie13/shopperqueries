@@ -1,9 +1,11 @@
 ---
 title: "Skincare for Men: The Ultimate Guide to Healthy, Handsome Skin"
 description: "Discover the ultimate men's skincare guide for achieving healthy, handsome skin. Learn about essential routines, product recommendations, and expert tips for every skin type"
-date: "2024-12-29"
-tag:
-  - skin care for men
+date: "2025-01-01"
+tags:
+  - skincare for men
+---
+
 ---
 
 [Insert hero image of a well-groomed man applying skincare products]

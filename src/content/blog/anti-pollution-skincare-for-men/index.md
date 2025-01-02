@@ -2,8 +2,10 @@
 title: "The Ultimate Guide to Anti-Pollution Skincare for Men: Protect Your Skin in Style"
 description: "Discover the ultimate guide to anti-pollution skincare for men. Learn expert tips, product recommendations, and daily routines to protect your skin from urban environmental damage while maintaining your style."
 date: "2024-12-29"
-tag:
-  - skin care for men
+tags:
+  - skincare for men
+---
+
 ---
 
 [Insert hero image of a well-groomed man in an urban environment]
@@ -112,6 +114,6 @@ Remember, protecting your skin isn't just about looking good (though that's a ni
 
 [Insert call-to-action banner]
 
-Have questions about your specific skin concerns? Drop them in the comments below. And don't forget to sign up for our newsletter for more expert tips on navigating the world of men's skincare.
+Have questions about your specific skin concerns? Drop them in the comments below. And don't forget to sign up for our newsletter for more expert tips on navigating the world of [men's skincare](./skincare-for-men/).
 
 *Stay protected, stay stylish.*

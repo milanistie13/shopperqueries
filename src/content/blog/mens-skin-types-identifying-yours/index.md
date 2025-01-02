@@ -1,9 +1,11 @@
 ---
 title: "Men's Skin Types: Identifying Yours and Unlocking the Perfect Skincare Routine"
 description: "Discover your men's skin type and unlock the perfect skincare routine with our comprehensive guide. Learn about different skin types, product recommendations, and expert tips for better skin health."
-date: "2024-12-29"
-tag:
-  - skin care for men
+date: "2025-01-01"
+tags:
+  - skincare for men
+---
+
 ---
 
 Hey there! Let's talk about something that's probably been on your mind but you might've been hesitant to ask about – your skin type. Trust me, I get it. When I first started exploring skincare, it felt like diving into a foreign language. But here's the thing: understanding your skin type is like having a roadmap to better skin, and it's simpler than you might think.
@@ -12,7 +14,7 @@ Hey there! Let's talk about something that's probably been on your mind but you 
 
 ## Why Understanding Your Skin Type Matters
 
-Picture this: You're standing in front of a wall of skincare products at the store, feeling completely overwhelmed. Been there! The truth is, choosing the right products without knowing your skin type is like trying to build IKEA furniture without instructions – you might get there eventually, but you're probably going to make some frustrating mistakes along the way.
+Picture this: You're standing in front of a wall of [skincare products](./skincare-for-men/) at the store, feeling completely overwhelmed. Been there! The truth is, choosing the right products without knowing your skin type is like trying to build IKEA furniture without instructions – you might get there eventually, but you're probably going to make some frustrating mistakes along the way.
 
 ## The Main Types of Men's Skin
 

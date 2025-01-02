@@ -2,15 +2,15 @@ import type { Metadata, Site, Socials } from "@types";
 
 export const SITE: Site = {
   TITLE: "Shopperqueries",
-  DESCRIPTION: "Explore a new realm of shopping satisfaction with Shopper Queries, your trusted guide to elevated shopping experiences.",
-  EMAIL: "solucionermedia@gmail.com",
+  DESCRIPTION: "Elevate Your Shopping Experience with Shopperqueries. Explore a new realm of shopping satisfaction with Shopper Queries, your trusted guide to elevated shopping experiences.",
+  EMAIL: "solucinermedia@gmail.com",
   NUM_POSTS_ON_HOMEPAGE: 400,
   NUM_PROJECTS_ON_HOMEPAGE: 3,
 };
 
 export const HOME: Metadata = {
   TITLE: "Home",
-  DESCRIPTION: "Astro Micro is an accessible theme for Astro.",
+  DESCRIPTION: "Elevate Your Shopping Experience with Shopperqueries.",
 };
 
 export const BLOG: Metadata = {
@@ -27,14 +27,14 @@ export const PROJECTS: Metadata = {
 export const SOCIALS: Socials = [
   {
     NAME: "X (formerly Twitter)",
-    HREF: "https://twitter.com/shopperqueries",
+    HREF: "https://twitter.com/boogerbuttcheeks",
   },
   {
     NAME: "GitHub",
-    HREF: "https://github.com/shopperqueries",
+    HREF: "https://github.com/trevortylerlee",
   },
   {
     NAME: "LinkedIn",
-    HREF: "https://www.linkedin.com/in/shopperqueries",
+    HREF: "https://www.linkedin.com/in/trevortylerlee",
   },
 ];
