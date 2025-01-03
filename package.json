@@ -7,7 +7,8 @@
     "start": "astro dev",
     "build": "astro check && astro build",
     "preview": "astro preview",
-    "astro": "astro"
+    "astro": "astro",
+    "generate-sitemap": "node scripts/generate-sitemap.js"
   },
   "dependencies": {
     "@astrojs/check": "^0.9.4",
@@ -20,6 +21,7 @@
     "astro": "^5.1.1",
     "astro-pagefind": "^1.7.0",
     "clsx": "^2.1.1",
+    "sitemap": "^8.0.0",
     "tailwind-merge": "^2.5.5",
     "tailwindcss": "^3.4.16",
     "typescript": "^5.7.2",

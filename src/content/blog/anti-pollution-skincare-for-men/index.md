@@ -8,8 +8,6 @@ tags:
 
 ---
 
-[Insert hero image of a well-groomed man in an urban environment]
-
 Let me paint you a picture: You're walking down a busy city street, dodging exhaust fumes from buses, feeling that layer of grime settling on your face, and wondering why your skin looks more tired than you feel. Sound familiar? Well, my friend, you're not alone in this urban jungle battle.
 
 I've spent years helping men navigate the world of skincare, and if there's one thing I've learned, it's that pollution is the silent enemy we're all facing. But here's the good news: you don't have to let it win.
@@ -43,8 +41,6 @@ This is where the magic happens, gentlemen. A good serum is like having a person
 Top Picks:
 - Biopelle Tensage Daily Serum: Packed with antioxidants that fight pollution like a superhero
 - St. Botanica Anti-Pollution Serum: Your skin's daily dose of protection
-
-[Insert product comparison table]
 
 ### 3. The Shield: Moisturizer + SPF
 
@@ -111,8 +107,6 @@ Ready to step up your skincare game? Here's what to do next:
 4. Gradually add targeted treatments
 
 Remember, protecting your skin isn't just about looking good (though that's a nice bonus). It's about maintaining your skin's health in an increasingly polluted world.
-
-[Insert call-to-action banner]
 
 Have questions about your specific skin concerns? Drop them in the comments below. And don't forget to sign up for our newsletter for more expert tips on navigating the world of [men's skincare](./skincare-for-men/).
 
