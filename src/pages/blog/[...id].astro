@@ -49,6 +49,26 @@ const prevPost = getPrevPost();
 
 const post = Astro.props;
 const { Content, headings } = await render(post);
+
+const articleSchema = {
+  "@context": "https://schema.org",
+  "@type": "Article",
+  "headline": post.data.title,
+  "description": post.data.description,
+  "datePublished": post.data.date,
+  "author": {
+    "@type": "Person",
+    "name": "Author Name" // Replace with actual author name
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "Shopperqueries",
+    "logo": {
+      "@type": "ImageObject",
+      "url": "https://shopperqueries.com/logo.png"
+    }
+  }
+};
 ---
 
 <Layout title={post.data.title} description={post.data.description}>
