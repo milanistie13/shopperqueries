@@ -4,20 +4,25 @@ import { SITE } from "@consts";
 import BackToTop from "@components/BackToTop.astro";
 ---
 
-<footer class="animate">
+<footer class="animate py-6 bg-gray-100 dark:bg-gray-900">
   <Container>
     <div class="relative">
       <div class="absolute -top-12 right-0">
         <BackToTop />
       </div>
     </div>
-    <div class="flex items-center justify-between">
-      <div>&copy; {new Date().getFullYear()} • {SITE.TITLE} 📣</div>
+    <div class="flex flex-col md:flex-row items-center justify-between gap-4 md:gap-8">
+      <div class="text-center md:text-left">&copy; {new Date().getFullYear()} • {SITE.TITLE} 📣</div>
+      <nav class="flex gap-4">
+        <a href="/disclaimer" class="hover:underline text-gray-700 dark:text-gray-300">Disclaimer</a>
+        <a href="/privacy-policy" class="hover:underline text-gray-700 dark:text-gray-300">Privacy Policy</a>
+        <a href="/terms-and-conditions" class="hover:underline text-gray-700 dark:text-gray-300">Terms and Conditions</a>
+      </nav>
       <div class="flex flex-wrap items-center gap-1.5">
         <button
           id="light-theme-button"
           aria-label="Light theme"
-          class="group flex size-9 items-center justify-center rounded border border-black/15 hover:bg-black/5 focus-visible:bg-black/5 dark:border-white/20 dark:hover:bg-white/5 dark:focus-visible:bg-white/5"
+          class="group flex size-9 items-center justify-center rounded border border-gray-300 hover:bg-gray-200 focus-visible:bg-gray-200 dark:border-gray-700 dark:hover:bg-gray-800 dark:focus-visible:bg-gray-800"
         >
           <svg
             xmlns="http://www.w3.org/2000/svg"
@@ -45,7 +50,7 @@ import BackToTop from "@components/BackToTop.astro";
         <button
           id="dark-theme-button"
           aria-label="Dark theme"
-          class="group flex size-9 items-center justify-center rounded border border-black/15 hover:bg-black/5 focus-visible:bg-black/5 dark:border-white/20 dark:hover:bg-white/5 dark:focus-visible:bg-white/5"
+          class="group flex size-9 items-center justify-center rounded border border-gray-300 hover:bg-gray-200 focus-visible:bg-gray-200 dark:border-gray-700 dark:hover:bg-gray-800 dark:focus-visible:bg-gray-800"
         >
           <svg
             xmlns="http://www.w3.org/2000/svg"
@@ -59,13 +64,13 @@ import BackToTop from "@components/BackToTop.astro";
             stroke-linejoin="round"
             class="transition-colors duration-300 ease-in-out group-hover:animate-pulse group-hover:stroke-black group-focus-visible:animate-pulse group-focus-visible:stroke-black group-hover:dark:stroke-white dark:group-focus-visible:stroke-white"
           >
-            <path d="M21 12.79A9 9 0 1 1 11.21 3 7 7 0 0 0 21 12.79z"></path>
+            <path d="M21 12.79A9 9 0 1 1 11.21 3 A7 7 0 0 0 21 12.79z"></path>
           </svg>
         </button>
         <button
           id="system-theme-button"
           aria-label="System theme"
-          class="group flex size-9 items-center justify-center rounded border border-black/15 hover:bg-black/5 focus-visible:bg-black/5 dark:border-white/20 dark:hover:bg-white/5 dark:focus-visible:bg-white/5"
+          class="group flex size-9 items-center justify-center rounded border border-gray-300 hover:bg-gray-200 focus-visible:bg-gray-200 dark:border-gray-700 dark:hover:bg-gray-800 dark:focus-visible:bg-gray-800"
         >
           <svg
             xmlns="http://www.w3.org/2000/svg"
