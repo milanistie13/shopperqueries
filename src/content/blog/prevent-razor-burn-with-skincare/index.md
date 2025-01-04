@@ -33,7 +33,7 @@ While shaving against the direction of hair growth might feel like it gives you 
 
 ## Your Arsenal Against Irritation: Essential Products
 
-Let's talk about the tools and products that can transform your [shaving routine](./skincare-for-men/) from a daily ordeal into a smooth experience.
+Let's talk about the tools and products that can transform your [shaving routine](https://shopperqueries.com/blog/skincare-for-men/) from a daily ordeal into a smooth experience.
 
 ### The Foundation: Choosing the Right Razor
 Not all razors are created equal, especially when it comes to sensitive skin. Here are some top-tier options that have proven their worth:

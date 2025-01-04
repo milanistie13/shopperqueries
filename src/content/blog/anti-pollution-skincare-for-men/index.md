@@ -106,6 +106,6 @@ Ready to step up your skincare game? Here's what to do next:
 
 Remember, protecting your skin isn't just about looking good (though that's a nice bonus). It's about maintaining your skin's health in an increasingly polluted world.
 
-Have questions about your specific skin concerns? Drop them in the comments below. And don't forget to sign up for our newsletter for more expert tips on navigating the world of [men's skincare](./skincare-for-men/).
+Have questions about your specific skin concerns? Drop them in the comments below. And don't forget to sign up for our newsletter for more expert tips on navigating the world of [men's skincare](https://shopperqueries.com/blog/skincare-for-men/).
 
 *Stay protected, stay stylish.*

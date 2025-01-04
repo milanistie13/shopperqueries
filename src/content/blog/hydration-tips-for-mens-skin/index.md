@@ -6,7 +6,7 @@ tags:
   - skincare for men
 ---
 
-Let's be real, guys - when was the last time you gave your skin the attention it deserves? If you're like most men I know, [skincare](./skincare-for-men/) probably ranks somewhere between organizing your sock drawer and learning to juggle on your priority list. But here's the thing: proper hydration isn't just about looking good (though trust me, it definitely helps). It's about maintaining healthy, comfortable skin that can handle whatever life throws at it.
+Let's be real, guys - when was the last time you gave your skin the attention it deserves? If you're like most men I know, [skincare](https://shopperqueries.com/blog/skincare-for-men/) probably ranks somewhere between organizing your sock drawer and learning to juggle on your priority list. But here's the thing: proper hydration isn't just about looking good (though trust me, it definitely helps). It's about maintaining healthy, comfortable skin that can handle whatever life throws at it.
 
 <!--[Insert image: Man applying moisturizer with confident expression]-->
 

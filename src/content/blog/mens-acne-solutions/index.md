@@ -12,7 +12,7 @@ Look, I get it. Dealing with acne as a grown man can feel like you're still stuc
 
 ## Understanding Men's Acne: It's Not Just a Teenage Problem
 
-Before we dive into the solutions, let's get real about what we're dealing with. Men's acne isn't just regular acne wearing a tie – it's got its own unique characteristics. Our higher testosterone levels mean more oil production, and let's be honest, our daily habits (like aggressive shaving or skipping [skincare](./skincare-for-men/) steps) aren't doing us any favors.
+Before we dive into the solutions, let's get real about what we're dealing with. Men's acne isn't just regular acne wearing a tie – it's got its own unique characteristics. Our higher testosterone levels mean more oil production, and let's be honest, our daily habits (like aggressive shaving or skipping [skincare](https://shopperqueries.com/blog/skincare-for-men/) steps) aren't doing us any favors.
 
 ### What Makes Men's Acne Different?
 

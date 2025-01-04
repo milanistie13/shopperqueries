@@ -12,7 +12,7 @@ Hey there! Let's talk about something that's probably been on your mind but you 
 
 ## Why Understanding Your Skin Type Matters
 
-Picture this: You're standing in front of a wall of [skincare products](./skincare-for-men/) at the store, feeling completely overwhelmed. Been there! The truth is, choosing the right products without knowing your skin type is like trying to build IKEA furniture without instructions – you might get there eventually, but you're probably going to make some frustrating mistakes along the way.
+Picture this: You're standing in front of a wall of [skincare products](https://shopperqueries.com/blog/skincare-for-men/) at the store, feeling completely overwhelmed. Been there! The truth is, choosing the right products without knowing your skin type is like trying to build IKEA furniture without instructions – you might get there eventually, but you're probably going to make some frustrating mistakes along the way.
 
 ## The Main Types of Men's Skin
 

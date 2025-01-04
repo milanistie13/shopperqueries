@@ -281,7 +281,7 @@ After helping countless men transform their skin, I've learned that success ofte
 
 ## Final Thoughts: Your Journey to Better Skin
 
-Remember, the [best skincare](./skincare-for-men/) routine is the one you'll actually stick to. Start small, be consistent, and adjust as needed. Your skin is unique, and what works for someone else might not work for you.
+Remember, the [best skincare](https://shopperqueries.com/blog/skincare-for-men/) routine is the one you'll actually stick to. Start small, be consistent, and adjust as needed. Your skin is unique, and what works for someone else might not work for you.
 
 Think of this guide as your roadmap, but don't be afraid to take detours based on your skin's needs. The key is paying attention to how your skin responds and being patient with the process.
 

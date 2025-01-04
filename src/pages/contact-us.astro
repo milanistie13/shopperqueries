@@ -1,0 +1,31 @@
+---
+import Layout from "@layouts/Layout.astro";
+import Container from "@components/Container.astro";
+import BackToPrevious from "@components/BackToPrevious.astro";
+import { SITE } from "@consts";
+---
+
+<Layout title="Contact Us" description={SITE.DESCRIPTION}>
+  <Container>
+    <section class="animate space-y-10">
+      <h1 class="font-semibold text-black dark:text-white">
+        Contact Us
+      </h1>
+      <article>
+      <p>If you have any questions, comments, or concerns, please feel free to contact us using the information below:</p>
+      <p>Email: shopperqueries.mo@gmail.com</p>
+      <p>Phone: +6285421444412</p>
+      <p>Address: West Sumatera, Indonesia</p>
+      <form action="/submit-form" method="post">
+          <label for="name">Name:</label>
+          <input type="text" id="name" name="name" required><br><br>
+          <label for="email">Email:</label>
+          <input type="email" id="email" name="email" required><br><br>
+          <label for="message">Message:</label><br>
+          <textarea id="message" name="message" rows="4" cols="50" required></textarea><br><br>
+          <input type="submit" value="Submit">
+      </form>
+      </article>
+    </section>
+  </Container>
+</Layout>

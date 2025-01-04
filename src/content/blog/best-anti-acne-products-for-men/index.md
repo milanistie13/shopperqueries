@@ -120,7 +120,7 @@ These aren't your grandfather's zit patches. ZitSticka has engineered these with
 ### 8. Horace Purifying Face Mask
 **Best Weekly Treatment**
 
-Think of this as your weekly reset button. In response to, What's the best [skincare routine for men](./skincare-for-men/) with acne-prone skin? – incorporating a weekly mask like this one can make a huge difference.
+Think of this as your weekly reset button. In response to, What's the best [skincare routine for men](https://shopperqueries.com/blog/skincare-for-men/) with acne-prone skin? – incorporating a weekly mask like this one can make a huge difference.
 
 *Why it works:*
 - Clay-based formula absorbs excess oil

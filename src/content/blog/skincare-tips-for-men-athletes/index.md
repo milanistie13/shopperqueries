@@ -178,4 +178,4 @@ Think of skincare as part of your athletic performance toolkit. Just like you in
 
 Remember, developing a solid skincare routine is like training for a sport – consistency is key, and results come with time and dedication. Start with the basics, pay attention to how your skin responds, and adjust accordingly. Your skin is your body's first line of defense – treat it like the MVP it is.
 
-Want to level up your skincare game? Share your current routine in the comments below, and let's help each other achieve our best skin yet. And don't forget to subscribe to our newsletter for more athlete-focused [skincare tips](./skincare-for-men/) and product recommendations!
+Want to level up your skincare game? Share your current routine in the comments below, and let's help each other achieve our best skin yet. And don't forget to subscribe to our newsletter for more athlete-focused [skincare tips](https://shopperqueries.com/blog/skincare-for-men/) and product recommendations!
