@@ -6,11 +6,9 @@ tags:
   - skincare for men
 ---
 
----
-
 Ever looked in the mirror and felt like your face was plotting against you? Trust me, I've been there. As someone who's battled with acne well into my 30s, I know the frustration of trying countless products that promise the world but deliver... well, more pimples. But guys, there's hope. After years of research, trial and error, and consulting with dermatologists, I've compiled the ultimate guide to anti-acne products that actually deliver results for men.
 
-[Insert image: A clean, minimalist bathroom counter with high-end skincare products]
+<!--[Insert image: A clean, minimalist bathroom counter with high-end skincare products]-->
 
 ## Why Men's Acne Needs Special Attention
 
@@ -47,7 +45,7 @@ Remember when you needed a prescription for retinoids? Those days are gone, than
 
 *Pro tip: Start slow – use it every other night until your skin adjusts.*
 
-[Insert image: Differin gel product shot with before/after results]
+<!--[Insert image: Differin gel product shot with before/after results]-->
 
 ### 2. Paula's Choice Extra Strength Daily Skin Clearing Treatment
 **Best for Stubborn Breakouts**
@@ -580,5 +578,3 @@ Finding the right acne treatment isn't just about clearing your skin – it's ab
 Remember: consistency is key. Give any new product at least 8-12 weeks before passing judgment, and always patch test before going all in.
 
 Ready to take control of your skin? Start with any of these tested and proven products, follow the routines outlined above, and watch your skin transform. Your future self (and your mirror) will thank you.
-
-[Insert Call-to-Action for newsletter signup or consultation booking]

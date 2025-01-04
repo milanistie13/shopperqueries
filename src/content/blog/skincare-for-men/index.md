@@ -8,7 +8,7 @@ tags:
 
 ---
 
-[Insert hero image of a well-groomed man applying skincare products]
+<!--[Insert hero image of a well-groomed man applying skincare products]-->
 
 Let's be real - when was the last time you actually looked at what you're putting on your face? If you're like most guys, your skincare "routine" probably consists of whatever bar soap is in the shower and maybe some aftershave if you're feeling fancy. But here's the thing: your skin deserves better, and achieving healthy, great-looking skin doesn't require a PhD in chemistry or a bathroom cabinet that looks like a Sephora store.
 
@@ -25,7 +25,7 @@ I've spent years testing products and learning about skincare, making plenty of 
 
 ## Why Men Need a Proper Skincare Routine
 
-[Insert image of comparison between well-maintained and neglected skin]
+<!--[Insert image of comparison between well-maintained and neglected skin]-->
 
 Listen up, fellas - our skin is different from women's in several key ways. For starters, men's skin is about 25% thicker than women's, produces more oil, and has larger pores. Thanks to testosterone, we're also more prone to acne and other skin issues well into adulthood. Add in daily shaving, which can seriously stress out your skin, and you've got plenty of reasons to step up your skincare game.
 
@@ -65,7 +65,7 @@ Before you start loading up on products, you need to know what you're working wi
 - May sting or burn
 - Prone to rashes and bumps
 
-[Insert infographic showing different skin types and their characteristics]
+<!--[Insert infographic showing different skin types and their characteristics]-->
 
 ## The Essential Steps of Men's Skincare
 
@@ -84,7 +84,7 @@ Think of cleansing as the reset button for your face. It removes dirt, excess oi
 
 ### 2. Exfoliation: The Game Changer
 
-[Insert image demonstrating proper exfoliation technique]
+<!--[Insert image demonstrating proper exfoliation technique]-->
 
 Remember that scrubbing mistake I mentioned earlier? Here's the truth about exfoliation - it's essential but easy to overdo. You're removing dead skin cells to reveal fresher skin underneath, not preparing for battle.
 
@@ -116,7 +116,7 @@ Pro tip: Apply moisturizer to slightly damp skin right after washing your face. 
 
 ### 4. Sun Protection: Your Anti-Aging Secret Weapon
 
-[Insert image of man applying sunscreen outdoors]
+<!--[Insert image of man applying sunscreen outdoors]-->
 
 Here's a truth bomb: sun damage is responsible for up to 90% of visible skin aging. Yeah, you read that right. All those wrinkles and dark spots you're worried about? Most could have been prevented with proper sun protection.
 
@@ -145,7 +145,7 @@ Let's be honest - nobody wants to look older than they are. The good news is tha
 
 ### 6. Beard Care: The Forgotten Frontier
 
-[Insert image of man grooming beard]
+<!--[Insert image of man grooming beard]-->
 
 Whether you're rocking a full beard or maintaining permanent stubble, the skin underneath needs attention too. A healthy beard starts with healthy skin.
 
@@ -186,7 +186,7 @@ Consider these in-office procedures for specific concerns:
 
 ### 8. Product Recommendations for Every Budget
 
-[Insert product comparison table]
+<!--[Insert product comparison table]-->
 
 **Budget-Friendly Options:**
 - Cleanser: The Ordinary Bright Set
@@ -220,7 +220,7 @@ Let's talk about everyone's least favorite skin issue - acne. Even if you though
 
 ### Razor Burn and Ingrown Hairs: The Shaving Struggle
 
-[Insert image showing proper shaving technique]
+<!--[Insert image showing proper shaving technique]-->
 
 If you've ever looked like you got into a fight with your razor (and lost), you're not alone. Razor burn and ingrown hairs are among the most common skincare issues men face. But they're also largely preventable.
 
@@ -406,7 +406,7 @@ Remember: consistency beats intensity every time.
 
 ### Understanding Ingredients
 
-[Insert infographic of key skincare ingredients]
+<!--[Insert infographic of key skincare ingredients]-->
 
 Let's break down the most important ingredients you'll encounter:
 

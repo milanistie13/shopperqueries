@@ -10,7 +10,7 @@ tags:
 
 Picture this: You've spent months growing out that magnificent beard, but underneath it all, your skin is crying out for attention. If you're nodding along, you're not alone. As someone who's navigated the sometimes-tricky waters of beard care while maintaining healthy skin, I'm here to share everything I've learned about keeping both your facial hair and the skin beneath it in top condition.
 
-[Insert image: Close-up of a well-groomed beard with healthy, glowing skin visible beneath]
+<!--[Insert image: Close-up of a well-groomed beard with healthy, glowing skin visible beneath]-->
 
 ## Understanding the Beard-Skin Connection
 
@@ -205,6 +205,6 @@ Taking care of your beard and the skin beneath it doesn't have to be complicated
 
 Start with one change at a time. Maybe it's investing in a quality beard oil or starting a proper cleansing routine. Whatever you choose, your beard (and the skin beneath it) will thank you.
 
-[Insert final image: Before/after comparison of a well-maintained beard and skin]
+<!--[Insert final image: Before/after comparison of a well-maintained beard and skin]-->
 
 *Remember: A great beard starts with healthy skin. Take care of both, and you'll be well on your way to beard perfection.*

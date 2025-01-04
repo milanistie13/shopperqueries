@@ -6,11 +6,9 @@ tags:
   - skincare for men
 ---
 
----
-
 Hey there, fellow [skincare](./skincare-for-men/) explorer! I've spent years helping guys navigate the sometimes confusing world of skincare, and let me tell you – there are some pretty persistent myths out there that need to be put to rest. Today, we're going to break down these misconceptions and get to the truth about what your skin really needs.
 
-[Insert image: A diverse group of men applying various skincare products]
+<!--[Insert image: A diverse group of men applying various skincare products]-->
 
 ## The Real Deal with Men's Skincare
 
@@ -43,7 +41,7 @@ Let me share a quick story. A client came to me with persistent dry, irritated s
 
 Why? Regular soap typically has a pH level that's too harsh for facial skin, disrupting its natural barrier. Instead, opt for a gentle cleanser like CeraVe Hydrating Facial Cleanser, which maintains your skin's delicate balance.
 
-[Insert image: Side-by-side comparison of healthy skin vs. soap-damaged skin]
+<!--[Insert image: Side-by-side comparison of healthy skin vs. soap-damaged skin]-->
 
 ## Myth #4: "Expensive Products Are Always Better"
 
@@ -81,7 +79,7 @@ The reality is that over-exfoliation can:
 - Cause breakouts
 - Lead to excessive oil production
 
-[Insert image: Visual guide showing proper vs. excessive exfoliation effects]
+<!--[Insert image: Visual guide showing proper vs. excessive exfoliation effects]-->
 
 For most guys, exfoliating 2-3 times a week is plenty. I often recommend Baxter of California Exfoliating Facial Scrub – it's effective without being harsh.
 

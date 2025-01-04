@@ -6,9 +6,7 @@ tags:
   - skincare for men
 ---
 
----
-
-[Insert hero image of a modern bathroom counter with high-end men's skincare products arranged aesthetically]
+<!--[Insert hero image of a modern bathroom counter with high-end men's skincare products arranged aesthetically]-->
 
 Let me guess - you've been using that same bar of soap for your face that you use for... well, everything else. Trust me, I've been there. About five years ago, my idea of skincare was splashing some water on my face and calling it a day. But here's the thing: that approach wasn't doing my skin any favors, and it probably isn't doing yours any either.
 
@@ -29,7 +27,7 @@ These differences mean we need products and routines specifically designed for o
 
 ## The Essential 10-Minute Morning Routine
 
-[Insert image of a man washing his face at a sink]
+<!--[Insert image of a man washing his face at a sink]-->
 
 ### Step 1: Cleanse (2 minutes)
 
@@ -63,7 +61,7 @@ Treatment recommendations by skin concern:
 
 ### Step 3: Moisturize (2 minutes)
 
-[Insert image of a man applying moisturizer]
+<!--[Insert image of a man applying moisturizer]-->
 
 This step is non-negotiable, even if you have oily skin. Think of moisturizer as a protective shield for your face. It locks in hydration and creates a barrier against environmental damage.
 
@@ -79,7 +77,7 @@ The EltaMD UV Clear Facial Sunscreen SPF 46 is worth every penny. It's lightweig
 
 ## The Nighttime Routine: Keep It Simple
 
-[Insert image of bathroom counter with nighttime skincare products]
+<!--[Insert image of bathroom counter with nighttime skincare products]-->
 
 Your evening routine can be even simpler:
 
@@ -102,7 +100,7 @@ This is where many of us struggle, but there are effective solutions:
 
 ### Oily Skin and Large Pores
 
-[Insert image showing before/after of improved skin texture]
+<!--[Insert image showing before/after of improved skin texture]-->
 
 The key is not to strip your skin (which actually causes more oil production) but to balance it:
 
@@ -255,4 +253,4 @@ Remember, good skin is a journey, not a destination. It's about developing healt
 
 Ready to get started? Pick up a gentle cleanser and basic moisturizer, and begin your journey to better skin today. Your future self will thank you.
 
-[Insert final image of a confident man with healthy, glowing skin]
+<!--[Insert final image of a confident man with healthy, glowing skin]-->

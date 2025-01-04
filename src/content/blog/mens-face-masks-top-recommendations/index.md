@@ -6,11 +6,9 @@ tags:
   - skincare for men
 ---
 
----
-
 Let's be real - a few years ago, if you'd told me I'd be writing about face masks for men, I might have raised an eyebrow. But here's the thing: the skincare game has changed, and guys everywhere are discovering what women have known for ages - face masks aren't just about self-care, they're about investing in your skin's future.
 
-[Insert image of a confident man applying a face mask]
+<!--[Insert image of a confident man applying a face mask]-->
 
 ## Why Face Masks Are Your New Skincare Secret Weapon
 
@@ -61,7 +59,7 @@ What sets it apart: Quick application, fast results, and no mess. It's the expre
 - Pre-meeting freshness
 - Travel-friendly use
 
-[Insert image of products arranged aesthetically]
+<!--[Insert image of products arranged aesthetically]-->
 
 ### For the Skincare Enthusiast: Kiehl's Rare Earth Deep Pore Cleansing Mask
 The premium choice: This is like sending your pores to a spa. The Amazonian white clay is nature's finest dirt magnet, helping to:
@@ -164,6 +162,6 @@ Remember: good skin isn't just about looking better - it's about feeling confide
 
 Ready to transform your skincare routine? Start with one of our recommended masks and prepare to see the difference for yourself.
 
-[Insert final image of satisfied customer showing results]
+<!--[Insert final image of satisfied customer showing results]-->
 
 *Remember: Consistency is key in skincare. Give your new mask routine at least a month before judging the results, and always patch test new products before applying them to your entire face.*

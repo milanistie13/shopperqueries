@@ -6,8 +6,6 @@ tags:
   - skincare for men
 ---
 
----
-
 Let me paint you a picture: You're walking down a busy city street, dodging exhaust fumes from buses, feeling that layer of grime settling on your face, and wondering why your skin looks more tired than you feel. Sound familiar? Well, my friend, you're not alone in this urban jungle battle.
 
 I've spent years helping men navigate the world of skincare, and if there's one thing I've learned, it's that pollution is the silent enemy we're all facing. But here's the good news: you don't have to let it win.
@@ -20,7 +18,7 @@ Think of your skin as your body's first line of defense – like a bouncer at an
 
 Ever wondered why your skin looks dull after a long day in the city? Here's what's going down: those invisible particles in the air are having a party on your face, and trust me, it's not the good kind. They're breaking down collagen (your skin's support system), creating free radicals (the troublemakers), and basically trying to age you faster than your Netflix subscription goes through your watchlist.
 
-[Insert infographic showing pollution particles and their effects on skin]
+<!--[Insert infographic showing pollution particles and their effects on skin]-->
 
 ## The Anti-Pollution Arsenal: Your Essential Toolkit
 
@@ -63,7 +61,7 @@ Evening Routine:
 2. Apply serum
 3. Moisturize
 
-[Insert routine infographic]
+<!--[Insert routine infographic]-->
 
 ## Lifestyle Hacks for Extra Protection
 

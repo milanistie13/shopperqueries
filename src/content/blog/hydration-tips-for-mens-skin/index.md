@@ -6,11 +6,9 @@ tags:
   - skincare for men
 ---
 
----
-
 Let's be real, guys - when was the last time you gave your skin the attention it deserves? If you're like most men I know, [skincare](./skincare-for-men/) probably ranks somewhere between organizing your sock drawer and learning to juggle on your priority list. But here's the thing: proper hydration isn't just about looking good (though trust me, it definitely helps). It's about maintaining healthy, comfortable skin that can handle whatever life throws at it.
 
-[Insert image: Man applying moisturizer with confident expression]
+<!--[Insert image: Man applying moisturizer with confident expression]-->
 
 As someone who's spent years helping men navigate the sometimes confusing world of skincare, I can tell you that achieving well-hydrated skin doesn't require a 20-step routine or a chemistry degree. What it does need is understanding your skin's needs and following some straightforward, effective strategies.
 
@@ -37,7 +35,7 @@ I remember when I first got serious about skincare - I was using products all wr
    - Shiny in some places, dry in others? Combination skin
    - Easily irritated? Sensitive skin
 
-[Insert image: Diagram showing different skin types and their characteristics]
+<!--[Insert image: Diagram showing different skin types and their characteristics]-->
 
 ## 2. Master Your Moisturizing Timing
 
@@ -66,7 +64,7 @@ Why they work: These provide intense hydration without feeling greasy.
 - Clinique Dramatically Different Moisturizing Gel
 Why they work: They balance hydration where needed without oversaturating oily areas.
 
-[Insert image: Product lineup showcasing recommended moisturizers]
+<!--[Insert image: Product lineup showcasing recommended moisturizers]-->
 
 ## 4. Hydrate From Within: The Inside-Out Approach
 
@@ -136,7 +134,7 @@ Here's a simple, effective daily routine that takes less than 5 minutes:
 2. Apply night moisturizer
 3. Use eye cream if desired
 
-[Insert image: Step-by-step routine demonstration]
+<!--[Insert image: Step-by-step routine demonstration]-->
 
 ## Common Questions Answered
 
@@ -159,4 +157,4 @@ Achieving and maintaining hydrated skin isn't rocket science, but it does requir
 
 Ready to start your hydration journey? Begin with understanding your skin type and choosing one of the recommended moisturizers above. Your future self will thank you for taking this step toward healthier, more hydrated skin.
 
-[Insert image: Before and after comparison of properly hydrated skin]
+<!--[Insert image: Before and after comparison of properly hydrated skin]-->

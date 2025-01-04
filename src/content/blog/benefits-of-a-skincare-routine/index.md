@@ -6,8 +6,6 @@ tags:
   - skincare for men
 ---
 
----
-
 Look, I get it. For years, [skincare](./skincare-for-men/) has been marketed as a "women's thing." As a guy who once thought a bar of soap and water was enough, I've been exactly where you might be right now. But here's the truth: your skin doesn't care about gender stereotypes, and neither should you.
 
 ## The Evolution of Men's Skincare: Breaking the Stigma
@@ -47,7 +45,7 @@ This isn't just about looking good—it's about protecting your largest organ. R
 - Identify potential skin issues early
 - Maintain skin health as you age
 
-[Insert image: Infographic showing the layers of skin and how skincare products protect them]
+<!--[Insert image: Infographic showing the layers of skin and how skincare products protect them]-->
 
 ### Benefit #6: Cost-Effective Prevention
 
@@ -93,7 +91,7 @@ Night:
 2. Treatment: Caldera + Lab's The Good serum
 3. Moisturize
 
-[Insert image: Visual guide showing the basic steps of morning and evening routines]
+<!--[Insert image: Visual guide showing the basic steps of morning and evening routines]-->
 
 ## Common Questions Answered
 

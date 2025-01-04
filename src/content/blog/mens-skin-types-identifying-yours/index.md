@@ -6,11 +6,9 @@ tags:
   - skincare for men
 ---
 
----
-
 Hey there! Let's talk about something that's probably been on your mind but you might've been hesitant to ask about – your skin type. Trust me, I get it. When I first started exploring skincare, it felt like diving into a foreign language. But here's the thing: understanding your skin type is like having a roadmap to better skin, and it's simpler than you might think.
 
-[Insert image: Diverse group of men with different skin types examining their faces in mirrors]
+<!--[Insert image: Diverse group of men with different skin types examining their faces in mirrors]-->
 
 ## Why Understanding Your Skin Type Matters
 
@@ -72,7 +70,7 @@ Let's clear something up: men's skin isn't just marketing – it's actually stru
 - **Pore size**: Generally larger, which can mean more visible pores
 - **Hair growth**: Facial hair means different skincare needs
 
-[Insert image: Microscopic comparison of male and female skin structure]
+<!--[Insert image: Microscopic comparison of male and female skin structure]-->
 
 ## Finding Your Skin Type: The Ultimate Test
 

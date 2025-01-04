@@ -6,11 +6,9 @@ tags:
   - skincare for men
 ---
 
----
-
 Ever looked in the mirror after shaving and seen an angry red face staring back at you? Trust me, I've been there. That burning sensation, those irritating bumps – they're the uninvited guests that can turn your smooth-shaving dreams into a red, itchy nightmare. But here's the good news: razor burn doesn't have to be your constant companion.
 
-[Insert image of a person examining their face in the mirror, showing signs of mild razor burn]
+<!--[Insert image of a person examining their face in the mirror, showing signs of mild razor burn]-->
 
 ## Understanding the Enemy: What Is Razor Burn?
 
@@ -31,7 +29,7 @@ I get it – sometimes you're in a rush. But shaving without proper lubrication 
 ### Going Against the Grain
 While shaving against the direction of hair growth might feel like it gives you a closer shave, it's actually one of the quickest routes to irritation city. Your hair has a natural growth pattern for a reason.
 
-[Insert image of a diagram showing proper shaving directions for different areas of the face]
+<!--[Insert image of a diagram showing proper shaving directions for different areas of the face]-->
 
 ## Your Arsenal Against Irritation: Essential Products
 
@@ -69,7 +67,7 @@ The right shaving cream or gel can make all the difference. Here are my top reco
 - Best for: Daily shavers with sensitive skin
 - Key ingredients: Chamomile and Vitamin E
 
-[Insert product image of NIVEA Men Sensitive Shaving Gel]
+<!--[Insert product image of NIVEA Men Sensitive Shaving Gel]-->
 
 **Cremo Original Shave Cream**
 - Notable feature: Ultra-slick formula that significantly reduces friction
@@ -165,4 +163,4 @@ Ready to say goodbye to razor burn? Your journey to smoother, happier skin start
 
 Have you found any particular techniques or products that work especially well for your skin? Share your experiences in the comments below – your insights might be exactly what someone else needs to hear!
 
-[Insert final image of a satisfied person with smooth, irritation-free skin after shaving]
+<!--[Insert final image of a satisfied person with smooth, irritation-free skin after shaving]-->

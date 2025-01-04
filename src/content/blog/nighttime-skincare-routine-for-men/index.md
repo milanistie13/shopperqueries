@@ -6,11 +6,9 @@ tags:
   - skincare for men
 ---
 
----
-
 Listen up, fellas. If you think skincare is just for the morning rush or something that doesn't matter once you hit the hay, we need to talk. I've spent years helping guys transform their skin, and let me tell you – what you do (or don't do) before bed can make or break your skincare game. 
 
-[Insert image of a man applying skincare products in a modern bathroom setting]
+<!--[Insert image of a man applying skincare products in a modern bathroom setting]-->
 
 You wouldn't skip maintenance on your car and expect it to run smoothly, right? The same goes for your skin. While you're catching those Z's, your skin is actually working overtime to repair and regenerate itself. That's why having a solid nighttime skincare routine isn't just some fancy extra – it's your secret weapon for looking and feeling your best.
 
@@ -47,7 +45,7 @@ I can't tell you how many times I've seen guys go overboard with exfoliation, th
 
 Think of serums as the special ops team of your skincare routine. These concentrated formulas can target specific concerns while you sleep.
 
-[Insert image of various serums with dropper applicators]
+<!--[Insert image of various serums with dropper applicators]-->
 
 **Key Players to Look For**:
 - Niacinamide: Controls oil and reduces pore size
@@ -72,7 +70,7 @@ I used to think eye cream was just expensive moisturizer in a tiny jar. Boy, was
 
 Here's where a lot of guys get it wrong – using the same moisturizer day and night. Your skin has different needs while you sleep, and that light daytime moisturizer isn't going to cut it.
 
-[Insert image of rich night cream texture]
+<!--[Insert image of rich night cream texture]-->
 
 **Night Cream Benefits**:
 - Deeper hydration
@@ -196,7 +194,7 @@ While not mandatory, an eye cream is worth the investment if you're concerned ab
 
 ## Product Recommendations by Skin Type
 
-[Insert comparison table]
+<!--[Insert comparison table]-->
 
 | Skin Type | Cleanser | Serum | Moisturizer |
 |-----------|----------|--------|-------------|

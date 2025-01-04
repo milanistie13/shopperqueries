@@ -6,11 +6,9 @@ tags:
   - skincare for men
 ---
 
----
-
 Let's be honest – most of us guys grew up thinking [skincare](./skincare-for-men/) meant splashing some water on our face and calling it a day. I was that guy too, until I discovered the game-changing magic of exfoliation. Trust me, if you're still using that ancient bar of soap for your face, you're about to learn why your skin deserves so much better.
 
-[Insert image: Close-up of male skin texture before and after exfoliation]
+<!--[Insert image: Close-up of male skin texture before and after exfoliation]-->
 
 ## The Wake-Up Call Your Skin Needs
 
@@ -35,7 +33,7 @@ Let's get real for a second. In a world where every other product promises to tr
 3. **Better Product Absorption**
    If you're already investing in face creams or serums, here's the kicker: without exfoliation, you might as well be throwing money down the drain. Dead skin cells create a barrier that prevents products from penetrating effectively.
 
-[Insert image: Diagram showing skin layers and exfoliation process]
+<!--[Insert image: Diagram showing skin layers and exfoliation process]-->
 
 ## The Science of Scrubbing: Physical vs. Chemical Exfoliants
 
@@ -98,7 +96,7 @@ Look, I get it – you're busy and don't have time for a 20-step skincare routin
    - Pat (don't rub) your face dry
    - Apply your regular moisturizer while skin is still slightly damp
 
-[Insert image: Visual guide showing proper circular motion technique]
+<!--[Insert image: Visual guide showing proper circular motion technique]-->
 
 ## Common Mistakes That Are Sabotaging Your Skin Game
 
@@ -139,7 +137,7 @@ Let's cut through the marketing hype and get to the products that actually deliv
 - Why it wins: Vitamin-enriched formula that treats while it exfoliates
 - Best for: Those willing to invest in premium skincare
 
-[Insert image: Product flatlay of recommended exfoliators]
+<!--[Insert image: Product flatlay of recommended exfoliators]-->
 
 ## Seasonal Skincare: Adjusting Your Exfoliation Game
 
@@ -192,6 +190,6 @@ Remember: your skin is unique, so what works for your buddy might not work for y
 
 Start with one of our recommended products and give it a solid month of consistent use. Take progress photos weekly – you'll be amazed at the difference proper exfoliation can make.
 
-[Insert image: Before/after comparison of male skin showing improved texture and clarity]
+<!--[Insert image: Before/after comparison of male skin showing improved texture and clarity]-->
 
 *Remember to patch test any new product on a small area of skin first, and discontinue use if irritation occurs. While this guide is comprehensive, it's not a substitute for professional medical advice. If you have specific skin concerns, consult with a dermatologist.*
