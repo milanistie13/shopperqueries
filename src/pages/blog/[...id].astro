@@ -114,7 +114,9 @@ const articleSchema = {
       </div>
     </article>
   </Container>
-  <script type="application/ld+json">
+  <!--<script type="application/ld+json">
     {JSON.stringify(articleSchema)}
+  </script>-->
+  <script type="application/ld+json" set:html={JSON.stringify(articleSchema)}>
   </script>
 </Layout>
