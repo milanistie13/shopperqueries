@@ -8,6 +8,8 @@ tags:
 
 Let me paint you a picture: You're walking down a busy city street, dodging exhaust fumes from buses, feeling that layer of grime settling on your face, and wondering why your skin looks more tired than you feel. Sound familiar? Well, my friend, you're not alone in this urban jungle battle.
 
+![The Ultimate Guide to Anti-Pollution Skincare for Men: Protect Your Skin in Style](anti-pollution-skincare-for-men.webp)
+
 I've spent years helping men navigate the world of skincare, and if there's one thing I've learned, it's that pollution is the silent enemy we're all facing. But here's the good news: you don't have to let it win.
 
 ## The Urban Warrior's Challenge: Understanding Pollution's Impact

@@ -6,7 +6,7 @@ tags:
   - skincare for men
 ---
 
-<!--[Insert hero image of diverse men's natural skincare products arranged aesthetically]-->
+![altText](pathToImage)
 
 Look, I get it. Walking into a skincare store feels like entering a foreign country where everyone speaks a different language. As someone who spent years thinking a bar of soap and water was a complete "skincare routine," I've been exactly where you are. But here's the thing: taking care of your skin doesn't have to be complicated or intimidating, especially when you go the natural route.
 

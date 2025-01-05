@@ -8,7 +8,7 @@ tags:
 
 ---
 
-<!--[Insert hero image of a well-groomed man applying skincare products]-->
+![altText](pathToImage)
 
 Let's be real - when was the last time you actually looked at what you're putting on your face? If you're like most guys, your skincare "routine" probably consists of whatever bar soap is in the shower and maybe some aftershave if you're feeling fancy. But here's the thing: your skin deserves better, and achieving healthy, great-looking skin doesn't require a PhD in chemistry or a bathroom cabinet that looks like a Sephora store.
 

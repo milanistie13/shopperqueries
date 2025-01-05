@@ -10,7 +10,7 @@ tags:
 
 Hey there, fellow sun warriors! Let's talk about something that too many guys sweep under the rug – sunscreen. Yeah, I know what you're thinking: "Isn't that just for beach days?" Trust me, I used to think the same until I learned the hard way after a brutal farmer's tan during a casual weekend BBQ. Today, I'm here to break down everything you need to know about [sunscreen for men](/blog/skincare-for-men/), from why you absolutely need it to which products will become your new daily essentials.
 
-<!--[Insert image of a confident man applying sunscreen outdoors]-->
+![altText](pathToImage)
 
 ## Why Sunscreen Isn't Just Another "Beauty Product"
 

@@ -8,7 +8,7 @@ tags:
 
 Ever looked in the mirror after shaving and seen an angry red face staring back at you? Trust me, I've been there. That burning sensation, those irritating bumps – they're the uninvited guests that can turn your smooth-shaving dreams into a red, itchy nightmare. But here's the good news: razor burn doesn't have to be your constant companion.
 
-<!--[Insert image of a person examining their face in the mirror, showing signs of mild razor burn]-->
+![altText](pathToImage)
 
 ## Understanding the Enemy: What Is Razor Burn?
 

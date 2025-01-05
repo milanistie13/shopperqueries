@@ -8,7 +8,7 @@ tags:
 
 Hey there, fellow grooming enthusiast! I've spent years testing countless moisturizers, and let me tell you – finding the right one for your skin type can be a game-changer. Gone are the days when skincare was considered "unmanly." Today, more guys are realizing that taking care of their skin isn't just about looking good; it's about feeling confident and maintaining healthy skin for the long haul.
 
-<!--[Insert image: Diverse group of men applying moisturizer, showing different skin types and textures]-->
+![altText](pathToImage)
 
 ## Why Your Skin Type Matters (And How to Figure It Out)
 

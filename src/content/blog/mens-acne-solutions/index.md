@@ -8,7 +8,7 @@ tags:
 
 Look, I get it. Dealing with acne as a grown man can feel like you're still stuck in high school – minus the questionable fashion choices. But here's the thing: you're not alone in this battle. As someone who's spent years researching and testing various acne treatments (and yes, dealing with my fair share of breakouts), I'm here to share some game-changing solutions that actually work.
 
-<!--[Insert image: A confident man with clear skin looking in the mirror]-->
+![altText](pathToImage)
 
 ## Understanding Men's Acne: It's Not Just a Teenage Problem
 

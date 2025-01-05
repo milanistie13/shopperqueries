@@ -8,7 +8,7 @@ tags:
 
 Hey there! Let's talk about something that's probably been on your mind but you might've been hesitant to ask about – your skin type. Trust me, I get it. When I first started exploring skincare, it felt like diving into a foreign language. But here's the thing: understanding your skin type is like having a roadmap to better skin, and it's simpler than you might think.
 
-<!--[Insert image: Diverse group of men with different skin types examining their faces in mirrors]-->
+![altText](pathToImage)
 
 ## Why Understanding Your Skin Type Matters
 

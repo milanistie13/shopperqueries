@@ -6,7 +6,7 @@ tags:
   - skincare for men
 ---
 
-<!--[Insert hero image: Professional esthetician performing a facial treatment on a male client]-->
+![altText](pathToImage)
 
 Let's be honest - when you think of facials, your mind probably doesn't immediately jump to "[manly skincare](/blog/skincare-for-men/) ritual." But here's the thing: your skin doesn't care about gender stereotypes, and neither should you. As someone who was once skeptical about getting my first professional facial, I can tell you that the benefits are game-changing, regardless of whether you're sporting a full beard or clean-shaven look.
 

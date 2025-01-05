@@ -8,7 +8,7 @@ tags:
 
 Let's be real, guys - when was the last time you gave your skin the attention it deserves? If you're like most men I know, [skincare](/blog/skincare-for-men/) probably ranks somewhere between organizing your sock drawer and learning to juggle on your priority list. But here's the thing: proper hydration isn't just about looking good (though trust me, it definitely helps). It's about maintaining healthy, comfortable skin that can handle whatever life throws at it.
 
-<!--[Insert image: Man applying moisturizer with confident expression]-->
+![altText](pathToImage)
 
 As someone who's spent years helping men navigate the sometimes confusing world of skincare, I can tell you that achieving well-hydrated skin doesn't require a 20-step routine or a chemistry degree. What it does need is understanding your skin's needs and following some straightforward, effective strategies.
 

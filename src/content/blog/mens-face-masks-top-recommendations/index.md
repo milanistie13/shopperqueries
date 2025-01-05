@@ -8,7 +8,7 @@ tags:
 
 Let's be real - a few years ago, if you'd told me I'd be writing about face masks for men, I might have raised an eyebrow. But here's the thing: the skincare game has changed, and guys everywhere are discovering what women have known for ages - face masks aren't just about self-care, they're about investing in your skin's future.
 
-<!--[Insert image of a confident man applying a face mask]-->
+![altText](pathToImage)
 
 ## Why Face Masks Are Your New Skincare Secret Weapon
 

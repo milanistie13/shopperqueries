@@ -6,7 +6,7 @@ tags:
   - skincare for men
 ---
 
-<!--[Insert hero image of a man applying skincare products with visible seasonal elements in the background]-->
+![altText](pathToImage)
 
 Hey there, [skincare](/blog/skincare-for-men/) curious! Ever noticed how your skin seems to have a mind of its own as the seasons change? One day it's oily and prone to breakouts in the summer heat, and before you know it, it's as dry as the Sahara during those bitter winter months. Trust me, I've been there, and I'm here to guide you through the seasonal skincare maze that every man needs to navigate.
 
