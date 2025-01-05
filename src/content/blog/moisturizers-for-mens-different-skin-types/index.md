@@ -141,7 +141,7 @@ If you're the kind of guy who likes to keep things clean and green, Bulldog's na
 - Free from synthetic fragrances
 
 **Price:** $
-**Best for:** Men who prefer natural [skincare solutions](https://shopperqueries.com/blog/skincare-for-men/)
+**Best for:** Men who prefer natural [skincare solutions](/blog/skincare-for-men/)
 
 ### For Beard Zone: Brickell Men's Daily Essential Face Moisturizer
 

@@ -12,7 +12,7 @@ Let's be real - a few years ago, if you'd told me I'd be writing about face mask
 
 ## Why Face Masks Are Your New Skincare Secret Weapon
 
-Remember that feeling after a great workout? That's what a good face mask does for your skin. It's like sending your face to the gym, but instead of lifting weights, it's lifting away dead skin cells, excess oil, and everyday grime. As someone who was once skeptical about the whole "[men's skincare](https://shopperqueries.com/blog/skincare-for-men/)" trend, I can tell you firsthand - the results speak for themselves.
+Remember that feeling after a great workout? That's what a good face mask does for your skin. It's like sending your face to the gym, but instead of lifting weights, it's lifting away dead skin cells, excess oil, and everyday grime. As someone who was once skeptical about the whole "[men's skincare](/blog/skincare-for-men/)" trend, I can tell you firsthand - the results speak for themselves.
 
 ### The Revolution in Men's Skincare
 

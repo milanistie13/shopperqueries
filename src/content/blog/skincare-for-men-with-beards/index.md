@@ -95,7 +95,7 @@ Yes, you can (and should) exfoliate with a beard! But there's a right way to do 
 
 ## Sun Protection: Don't Skip the SPF
 
-Your beard provides some natural [sun protection](https://shopperqueries.com/blog/skincare-for-men/), but it's not enough. Here's how to apply sunscreen with a beard:
+Your beard provides some natural [sun protection](/blog/skincare-for-men/), but it's not enough. Here's how to apply sunscreen with a beard:
 
 1. Use a liquid or gel sunscreen
 2. Apply to skin first, before beard products

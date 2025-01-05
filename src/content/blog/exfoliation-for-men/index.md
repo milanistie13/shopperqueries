@@ -6,7 +6,7 @@ tags:
   - skincare for men
 ---
 
-Let's be honest – most of us guys grew up thinking [skincare](https://shopperqueries.com/blog/skincare-for-men/) meant splashing some water on our face and calling it a day. I was that guy too, until I discovered the game-changing magic of exfoliation. Trust me, if you're still using that ancient bar of soap for your face, you're about to learn why your skin deserves so much better.
+Let's be honest – most of us guys grew up thinking [skincare](/blog/skincare-for-men/) meant splashing some water on our face and calling it a day. I was that guy too, until I discovered the game-changing magic of exfoliation. Trust me, if you're still using that ancient bar of soap for your face, you're about to learn why your skin deserves so much better.
 
 <!--[Insert image: Close-up of male skin texture before and after exfoliation]-->
 

@@ -121,6 +121,6 @@ Let's be real – changing your entire routine overnight is a recipe for disaste
 
 Think of natural skincare as a long-term investment in yourself. Just like you wouldn't expect immediate results from hitting the gym once, give your natural skincare routine time to work its magic. Start with the basics, pay attention to how your skin responds, and adjust accordingly.
 
-Remember: the [best skincare](https://shopperqueries.com/blog/skincare-for-men/) routine is one you'll actually stick to. Whether you choose to incorporate all ten products or start with just the essentials, what matters is taking that first step toward better skin health.
+Remember: the [best skincare](/blog/skincare-for-men/) routine is one you'll actually stick to. Whether you choose to incorporate all ten products or start with just the essentials, what matters is taking that first step toward better skin health.
 
 Ready to transform your skincare routine? Start with one product and build from there. Your future self will thank you.

@@ -12,7 +12,7 @@ Let me guess - you've been using that same bar of soap for your face that you us
 
 Look, I get it. The world of skincare can seem overwhelming, especially when you're staring at endless shelves of products with ingredients you can't pronounce. But what if I told you that achieving healthy, great-looking skin only takes 10 minutes of your day? No complicated routines, no expensive treatments - just simple, effective care that fits into your morning routine as naturally as brewing your coffee.
 
-In this comprehensive guide, we're going to break down everything you need to know about [men's skincare](https://shopperqueries.com/blog/skincare-for-men/). No fluff, no unnecessary steps - just practical, science-backed advice that actually works. Whether you're dealing with oily skin, fighting signs of aging, or just want to look your best, I've got you covered.
+In this comprehensive guide, we're going to break down everything you need to know about [men's skincare](/blog/skincare-for-men/). No fluff, no unnecessary steps - just practical, science-backed advice that actually works. Whether you're dealing with oily skin, fighting signs of aging, or just want to look your best, I've got you covered.
 
 ## Why Men Need a Different Skincare Approach
 
