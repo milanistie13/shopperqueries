@@ -1,7 +1,7 @@
 ---
 title: "Top 10 Best Face Washes for Men to Revitalize Your Skin in 2025"
 description: "Discover the top 10 best face washes for men in 2025. From sensitive to oily skin, find your perfect match with our comprehensive guide to revitalizing your skincare routine."
-date: "2024-12-29"
+date: "2025-01-01"
 tags:
   - skincare for men
 ---

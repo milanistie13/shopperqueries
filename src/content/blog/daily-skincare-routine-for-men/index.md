@@ -1,7 +1,7 @@
 ---
 title: "Daily Skincare Routine for Men: Unlock Your Best Skin in 10 Minutes a Day"
 description: "Discover the ultimate 10-minute daily skincare routine for men. Learn expert tips, product recommendations, and simple steps to achieve healthy, great-looking skin. No complexity, just results."
-date: "2024-12-29"
+date: "2025-01-01"
 tags:
   - skincare for men
 ---

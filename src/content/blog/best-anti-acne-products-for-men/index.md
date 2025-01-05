@@ -1,7 +1,7 @@
 ---
 title: "Top 10 Best Anti-Acne Products for Men That Actually Work"
 description: "Discover the top 10 most effective anti-acne products specifically formulated for men's skin. Science-backed solutions that actually work, tested and reviewed by experts."
-date: "2024-12-29"
+date: "2025-01-01"
 tags:
   - skincare for men
 ---

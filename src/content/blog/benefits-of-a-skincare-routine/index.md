@@ -1,7 +1,7 @@
 ---
 title: "10 Surprising Benefits of a Skincare Routine for Men: Why It's Not Just for Women"
 description: "Discover the 10 surprising benefits of a men's skincare routine, from professional success to long-term health. Learn how simple skin care can transform your daily life."
-date: "2024-12-29"
+date: "2025-01-01"
 tags:
   - skincare for men
 ---
