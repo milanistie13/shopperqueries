@@ -6,7 +6,7 @@ tags:
   - skincare for men
 ---
 
-![altText](pathToImage)
+![Daily Skincare Routine for Men: Unlock Your Best Skin in 10 Minutes a Day](daily-skincare-routine-for-men.webp)
 
 Let me guess - you've been using that same bar of soap for your face that you use for... well, everything else. Trust me, I've been there. About five years ago, my idea of skincare was splashing some water on my face and calling it a day. But here's the thing: that approach wasn't doing my skin any favors, and it probably isn't doing yours any either.
 

@@ -8,7 +8,7 @@ tags:
 
 Listen up, fellas. If you think skincare is just for the morning rush or something that doesn't matter once you hit the hay, we need to talk. I've spent years helping guys transform their skin, and let me tell you – what you do (or don't do) before bed can make or break your skincare game. 
 
-![altText](pathToImage)
+![10 Must-Have Tips for a Game-Changing Nighttime Skincare Routine for Men](nighttime-skincare-routine-for-men.webp)
 
 You wouldn't skip maintenance on your car and expect it to run smoothly, right? The same goes for your skin. While you're catching those Z's, your skin is actually working overtime to repair and regenerate itself. That's why having a solid nighttime skincare routine isn't just some fancy extra – it's your secret weapon for looking and feeling your best.
 

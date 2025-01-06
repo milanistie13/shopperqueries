@@ -6,11 +6,9 @@ tags:
   - skincare for men
 ---
 
----
-
 Listen up, fellow athletes – I've got some real talk about something we often overlook: our skin. Between intense training sessions, outdoor runs, and gym workouts, our skin takes quite a beating. And let's be honest, most of us have been guilty of just splashing some water on our face post-workout and calling it a day. But here's the thing: proper skincare isn't just about looking good – it's about maintaining healthy, resilient skin that can keep up with your active lifestyle.
 
-![altText](pathToImage)
+![Sweat-Proof Skincare: A Complete Guide for Active Male Athletes](skincare-tips-for-men-athletes.webp)
 
 ## Why Athletes Need a Specific Skincare Routine
 

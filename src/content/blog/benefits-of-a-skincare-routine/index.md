@@ -8,7 +8,7 @@ tags:
 
 Look, I get it. For years, [skincare](/blog/skincare-for-men/) has been marketed as a "women's thing." As a guy who once thought a bar of soap and water was enough, I've been exactly where you might be right now. But here's the truth: your skin doesn't care about gender stereotypes, and neither should you.
 
-
+![10 Surprising Benefits of a Skincare Routine for Men: Why It's Not Just for Women](benefits-of-a-skincare-routine.webp)
 
 ## The Evolution of Men's Skincare: Breaking the Stigma
 

@@ -6,11 +6,9 @@ tags:
   - skincare for men
 ---
 
----
-
 Picture this: You've spent months growing out that magnificent beard, but underneath it all, your skin is crying out for attention. If you're nodding along, you're not alone. As someone who's navigated the sometimes-tricky waters of beard care while maintaining healthy skin, I'm here to share everything I've learned about keeping both your facial hair and the skin beneath it in top condition.
 
-![altText](pathToImage)
+![Skincare for Men with Beards: The Ultimate Guide to Healthy Skin and a Perfect Beard](skincare-for-men-with-beards.webp)
 
 ## Understanding the Beard-Skin Connection
 

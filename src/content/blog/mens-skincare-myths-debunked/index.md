@@ -8,7 +8,7 @@ tags:
 
 Hey there, fellow [skincare](/blog/skincare-for-men/) explorer! I've spent years helping guys navigate the sometimes confusing world of skincare, and let me tell you – there are some pretty persistent myths out there that need to be put to rest. Today, we're going to break down these misconceptions and get to the truth about what your skin really needs.
 
-![altText](pathToImage)
+![altT10 Common Men's Skincare Myths Debunked – What You Really Need to Knowext](mens-skincare-myths-debunked.webp)
 
 ## The Real Deal with Men's Skincare
 
